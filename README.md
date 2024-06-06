@@ -2,7 +2,9 @@
 selenium and chrome should be installed, together with matching chromedriver (https://getwebdriver.com/chromedriver#stable)
 # download the project
 clone the git repo, use Pycharm to open the project.
-a virtual environment is used, to allow encapsulation of the libraries.
-at edit run/edit configuration, the file at script path should point to start.py
+at 'run/edit configuration' window:
+  the file at Script path should point to source/start.py
+  and 'python interpreter' should be set as well (i used python 3.10)
 # run or debug the project
+missing libraries 
 run or debug
